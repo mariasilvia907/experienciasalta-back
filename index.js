@@ -12,10 +12,9 @@ app.use(express.json());
 
 app.use(cors())
 
-//app.use('/experiencias', require('./routes/experiencias.js'));
 app.use('/contacto', require('./routes/contacto.js'));
 
 
-app.listen(process.env.Port, () =>{
-    console.log(`Servidor corriendo en el puerto ${process.env.Port}`);
+app.listen(process.env.PORT, () =>{
+    console.log(`Servidor corriendo en el puerto ${process.env.PORT`);
 })
