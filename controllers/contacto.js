@@ -22,6 +22,5 @@ contactoFunciones.getContactos = async (req, res) => {
     res.json(contact);
 };
 
-
 module.exports = contactoFunciones;
 
