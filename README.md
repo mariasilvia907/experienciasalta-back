@@ -1,5 +1,5 @@
 Experiencia Salta - Viajá antes de viajar
-Stack
+
 El proyecto está armado con React. 
 
 Se compone por:
@@ -40,7 +40,7 @@ https://experienciasalta-frontend.herokuapp.com/
 Para uso local, una vez corriendo el servicio, levantar el proyecto alojado en https://github.com/mariasilvia907/experienciasalta-front con los comandos npm start para el funcionamiento de la app de React.
 
 Descripción
-El proyecto cuenta hoy con tres secciones. Se pretende en el corto y mediano plazo desarrollar aún más el sitio web.
+El proyecto cuenta hoy con cuatro secciones (INICIO - EXPERIENCIAS - NOSOTROS - CONTACTO). Se pretende en el corto y mediano plazo desarrollar aún más el sitio web con nuevas secciones y funcionalidades.
 
 PROYECTO
 Experiencia Salta es un proyecto de sitio web que pretende crecer poco a poco. Surge del proyecto Experiencia Museos de Salta: www.museodesalta.com El proyecto pretende invitar a viajeros y amantes de la cultura a conocer Salta y sus alrededores de manera virtual, primero, y enamorarlos tanto con toda la riqueza cultural para que nos visiten de manera presencial y cuando estén aquí disfruten cada segundo de su viaje.
